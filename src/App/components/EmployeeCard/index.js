@@ -54,7 +54,7 @@ export default (props) => {
           </Button>
         ) : (
           <Button
-            style={style}
+           
             variant="contained"
             size="large"
             color="primary"
